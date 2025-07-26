@@ -20,7 +20,7 @@ This project demonstrates a **Heater Control System** using **ESP32** with **Fre
 ## 🖥️ Simulation
 
 **Simulation Image:**  
-![Simulation Screenshot](simulation_image.png)
+![Simulation Screenshot](RTOS_Diagram.PNG)
 
 **Simulation Link:**  
 [Click here to view the simulation](https://wokwi.com/projects/437156056135982081)  
